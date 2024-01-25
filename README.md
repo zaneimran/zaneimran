@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm @zaneimran👋
 
 <!--
 **zaneimran/zaneimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👀 I'm passionate about developing hardware and firmware for embedded systems
+🌱 I'm currently learning about the Active Object framework for event driven design
+✨ I'm currently writing firmware for the Nordic chipset using Zephyr RTOS
+🎉 I'm looking to collaborate on any embedded projects
